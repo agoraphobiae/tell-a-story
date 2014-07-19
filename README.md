@@ -1,6 +1,6 @@
 Tell your friend a story
 ===
-Comfort your friend by telling them a story. Preferable a long one. Reads shakespeare.txt and calls the Win32API to send keyboard events to type out the entire works of Shakespeare.
+Comfort your friend by telling them a story. Preferable a long one. Everyone knows long plaintext storiest are the best kind of stories. Reads shakespeare.txt and calls the Win32API to send keyboard events to type out the entire works of Shakespeare.
 
 Usage
 ---
